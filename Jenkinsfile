@@ -10,3 +10,4 @@ node {
         customImage.push()
     }
 }
+buildPlugin()
